@@ -1,2 +1,2 @@
 # EasySoft
-Projects on EasySoft 6 
+PLC projects on EasySoft 6 
