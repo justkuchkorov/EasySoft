@@ -1,2 +1,2 @@
 # EasySoft
-PLC projects on EasySoft 6 
+PLC projects on EasySoft 6 and Siemens TIA Portal
